@@ -264,4 +264,6 @@ if ('serviceWorker' in navigator) {
                 console.log('SW registration failed: ', registrationError);
             });
     });
-} 
+}
+
+ 
